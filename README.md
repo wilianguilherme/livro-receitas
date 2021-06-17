@@ -2,5 +2,8 @@
 
 Olá, Bem vindos ao meu livro de receitas
 
-- Strogonoff de frango
+- [Strogonoff de frango](/receitas/strogonoff.md)
 
+- Pavê
+
+  
